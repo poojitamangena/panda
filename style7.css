@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+.game-container{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    border: 2px solid rgb(175, 98, 98);
+}
+body{
+    background-image: url("https://getwallpapers.com/wallpaper/full/4/7/1/1484107-free-download-kawaii-panda-wallpaper-2560x1440-download.jpg");
+    background-size:cover;
+}
+.mole{
+     position: absolute;
+     width: 75px;
+     height: 75px;
+     background: url("https://gifdb.com/images/high/panda-waving-cartoon-sticker-pi4qfklzce0s7zo5.gif") center/contain no-repeat;
+     cursor:pointer;
+}
